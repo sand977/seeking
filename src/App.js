@@ -12,7 +12,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 
 import Textbar from './components/Textbar';
-import Note from './components/Note';
+import Note from './components/Note'; 
 // import About from './components/About';
 
 
